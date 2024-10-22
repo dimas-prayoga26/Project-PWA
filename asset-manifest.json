@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.3e97ceaf.css",
-    "main.js": "/static/js/main.e5e625e8.js",
-    "static/js/453.93212ec5.chunk.js": "/static/js/453.93212ec5.chunk.js",
+    "main.js": "/static/js/main.99c264ae.js",
+    "static/js/453.23712c0c.chunk.js": "/static/js/453.23712c0c.chunk.js",
     "static/media/image-home.svg": "/static/media/image-home.4e4f15c4d0692dab76e510f249fcc896.svg",
     "static/media/TRIGGER.svg": "/static/media/TRIGGER.39cb77949381faf557d73af9a7930592.svg",
+    "static/media/under-construction.png": "/static/media/under-construction.4ec9b6ceee930f6b9262.png",
     "static/media/Bank-13.png": "/static/media/Bank-13.d76ef3f72985f2b9a260.png",
     "static/media/image-v.png": "/static/media/image-v.3c5343d004ceb4a54bed.png",
     "static/media/csoon.svg": "/static/media/csoon.e98963f485a4865d8768fbff95c26c97.svg",
@@ -73,11 +74,11 @@
     "static/media/inputFileIcon.svg": "/static/media/inputFileIcon.52a6f3fb5c72b24ec550a42e698cd141.svg",
     "static/media/riwayat.svg": "/static/media/riwayat.4310d7ec9fe9838f0a816ed1a4436279.svg",
     "main.3e97ceaf.css.map": "/static/css/main.3e97ceaf.css.map",
-    "main.e5e625e8.js.map": "/static/js/main.e5e625e8.js.map",
-    "453.93212ec5.chunk.js.map": "/static/js/453.93212ec5.chunk.js.map"
+    "main.99c264ae.js.map": "/static/js/main.99c264ae.js.map",
+    "453.23712c0c.chunk.js.map": "/static/js/453.23712c0c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3e97ceaf.css",
-    "static/js/main.e5e625e8.js"
+    "static/js/main.99c264ae.js"
   ]
 }
