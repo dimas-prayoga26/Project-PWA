@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3e97ceaf.css",
-    "main.js": "/static/js/main.99c264ae.js",
+    "main.js": "/static/js/main.7755ef99.js",
     "static/js/453.23712c0c.chunk.js": "/static/js/453.23712c0c.chunk.js",
     "static/media/image-home.svg": "/static/media/image-home.4e4f15c4d0692dab76e510f249fcc896.svg",
     "static/media/TRIGGER.svg": "/static/media/TRIGGER.39cb77949381faf557d73af9a7930592.svg",
@@ -9,6 +9,7 @@
     "static/media/Bank-13.png": "/static/media/Bank-13.d76ef3f72985f2b9a260.png",
     "static/media/image-v.png": "/static/media/image-v.3c5343d004ceb4a54bed.png",
     "static/media/csoon.svg": "/static/media/csoon.e98963f485a4865d8768fbff95c26c97.svg",
+    "static/media/P1-NEW.png": "/static/media/P1-NEW.476bde03286e6ed79811.png",
     "static/media/CREDIT CARD-12.png": "/static/media/CREDIT CARD-12.f478860e592570fb0a5a.png",
     "static/media/PAS.svg": "/static/media/PAS.69ea26c2e756e27d3094a49e1aea6c50.svg",
     "static/media/tnosgems.png": "/static/media/tnosgems.f6b7f021d6e9d4ec655e.png",
@@ -74,11 +75,11 @@
     "static/media/inputFileIcon.svg": "/static/media/inputFileIcon.52a6f3fb5c72b24ec550a42e698cd141.svg",
     "static/media/riwayat.svg": "/static/media/riwayat.4310d7ec9fe9838f0a816ed1a4436279.svg",
     "main.3e97ceaf.css.map": "/static/css/main.3e97ceaf.css.map",
-    "main.99c264ae.js.map": "/static/js/main.99c264ae.js.map",
+    "main.7755ef99.js.map": "/static/js/main.7755ef99.js.map",
     "453.23712c0c.chunk.js.map": "/static/js/453.23712c0c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3e97ceaf.css",
-    "static/js/main.99c264ae.js"
+    "static/js/main.7755ef99.js"
   ]
 }
